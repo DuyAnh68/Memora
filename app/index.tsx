@@ -119,7 +119,7 @@ export default function Home() {
                   borderWidth: 0.8,
                 }}
               >
-                <Text style={{ fontWeight: "semibold", fontSize: "18" }}>
+                <Text style={{ fontWeight: "semibold", fontSize: 18 }}>
                   4663
                 </Text>
               </BlurView>
@@ -154,7 +154,7 @@ export default function Home() {
                   gap: 5,
                 }}
               >
-                <Text style={{ fontWeight: "semibold", fontSize: "18" }}>
+                <Text style={{ fontWeight: "semibold", fontSize: 18 }}>
                   362665
                 </Text>
               </BlurView>
